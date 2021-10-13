@@ -8,8 +8,8 @@ var zahirr = db.get("zahirr");
 	console.log('')
 }
 
-var creatorList = ['@WandyGans'];
-var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
+
+var creator = `WandyGans`
 
 
 var ytdl = require('ytdl-core');
